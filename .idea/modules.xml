@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hamming.iml" filepath="$PROJECT_DIR$/.idea/hamming.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/hamming_neural_network/.idea/hamming_neural_network.iml" filepath="$USER_HOME$/PycharmProjects/hamming_neural_network/.idea/hamming_neural_network.iml" />
+    </modules>
+  </component>
+</project>
